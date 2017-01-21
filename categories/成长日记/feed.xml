@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title> on DidaDandan Blog</title>
+        <link>https://didadandan.github.io/categories/%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/feed/index.xml</link>
+        <language>zh-CN</language>
+        <author>didadandan</author>
+        <rights>Copyright (c) 2015, didadandan; all rights reserved.</rights>
+        <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
+        
+        <item>
+            <title>我的第一篇成长日记</title>
+            <link>https://didadandan.github.io/post/%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/</link>
+            <pubDate>Fri, 20 Jan 2017 16:06:43 CST</pubDate>
+            <author>didadandan</author>
+            <guid>https://didadandan.github.io/post/%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/</guid>
+            <description>&lt;p&gt;我的第一篇成长日记&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

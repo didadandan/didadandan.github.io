@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Post-rsses on DidaDandan Blog</title>
+        <link>https://didadandan.github.io/post/feed/index.xml</link>
+        <language>zh-CN</language>
+        <author>didadandan</author>
+        <rights>Copyright (c) 2015, didadandan; all rights reserved.</rights>
+        <updated>Fri, 20 Jan 2017 16:06:43 CST</updated>
+        
+        <item>
+            <title>我的第一篇成长日记</title>
+            <link>https://didadandan.github.io/post/%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/</link>
+            <pubDate>Fri, 20 Jan 2017 16:06:43 CST</pubDate>
+            <author>didadandan</author>
+            <guid>https://didadandan.github.io/post/%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%88%90%E9%95%BF%E6%97%A5%E8%AE%B0/</guid>
+            <description>&lt;p&gt;我的第一篇成长日记&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>我的第一篇阅读思考</title>
+            <link>https://didadandan.github.io/post/%E9%98%85%E8%AF%BB%E6%80%9D%E8%80%83/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E9%98%85%E8%AF%BB%E6%80%9D%E8%80%83/</link>
+            <pubDate>Fri, 20 Jan 2017 16:06:15 CST</pubDate>
+            <author>didadandan</author>
+            <guid>https://didadandan.github.io/post/%E9%98%85%E8%AF%BB%E6%80%9D%E8%80%83/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E9%98%85%E8%AF%BB%E6%80%9D%E8%80%83/</guid>
+            <description>&lt;p&gt;我的第一篇阅读思考&lt;/p&gt;
+</description>
+        </item>
+        
+        <item>
+            <title>我的第一篇技术分享</title>
+            <link>https://didadandan.github.io/post/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/</link>
+            <pubDate>Fri, 20 Jan 2017 16:05:51 CST</pubDate>
+            <author>didadandan</author>
+            <guid>https://didadandan.github.io/post/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/</guid>
+            <description>&lt;p&gt;我的第一篇技术分享&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
